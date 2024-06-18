@@ -15,7 +15,8 @@ Social Dwellers Uygulaması, React Native ile kullanıcıların kayıt olup giri
 
 ## Uygulama İçi Video
 
-Videoyu izlemek için [buraya](media/Social-Dwellers-Tanıtım.mp4) tıklayın.
+https://github.com/muratcangebes/SocialDwellers/assets/108350526/e0ec9bed-a1b8-4894-9836-513589d6e16a
+
 
 ## Ekran Görüntüleri
 ![Login Ekranı](media/social-dwellers-login.png)
