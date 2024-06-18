@@ -51,5 +51,5 @@ Social Dwellers Uygulaması, React Native ile kullanıcıların kayıt olup giri
 - yup
 
 ## Katkıda Bulunma
-- [https://github.com/KullanıcıAdı1](https://github.com/gebesburakcan)
+- [https://github.com/gebesburakcan](https://github.com/gebesburakcan)
 
