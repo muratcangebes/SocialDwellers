@@ -13,10 +13,17 @@ Social Dwellers Uygulaması, React Native ile kullanıcıların kayıt olup giri
 - **Çıkış Yapma:** Kullanıcılar uygulamadan çıkış yapabilirler.
 - **Oturum Hatırlama:** Uygulama kapatıldığında kullanıcı bilgilerini hatırlar ve tekrar giriş yapıldığında ana sayfaya yönlendirilir.
 
-## Ekran Görüntüleri
+## Uygulama İçi Video
 
-![Ana Ekran](media/screenshot1.png)
-![Profil Ekranı](media/screenshot2.png)
+[![Uygulama Videosu](media/Social-Dwellers-Tanıtım.mp4)
+
+Videoyu izlemek için [buraya](media/app-video.mp4) tıklayın.
+
+## Ekran Görüntüleri
+![Login Ekranı](media/social-dwellers-login.png)
+![Register Ekranı](media/social-dwellers-register.png)
+![Home Ekranı](media/social-dwellers-home-page.png)
+![Home-Modal Ekranı](media/social-dwellers-home-page-modal.png)
 
 ## Uygulama İçi Video
 
