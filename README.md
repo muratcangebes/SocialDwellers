@@ -36,7 +36,6 @@ https://github.com/muratcangebes/SocialDwellers/assets/108350526/e0ec9bed-a1b8-4
 - @react-native-firebase/auth
 - @react-native-firebase/database
 - @react-native-vector-icons/ionicons
-- @react-navigation/bottom-tabs
 - @react-navigation/drawer
 - @react-navigation/native
 - @react-navigation/native-stack
@@ -47,14 +46,12 @@ https://github.com/muratcangebes/SocialDwellers/assets/108350526/e0ec9bed-a1b8-4
 - react
 - react-native
 - react-native-flash-message
-- react-native-gesture-handler
 - react-native-modal
 - react-native-reanimated
 - react-native-safe-area-context
 - react-native-screens
 - react-native-vector-icons
 - react-redux
-- yup
 
 ## Katkıda Bulunma
 - [https://github.com/gebesburakcan](https://github.com/gebesburakcan)
