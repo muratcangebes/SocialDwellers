@@ -24,10 +24,6 @@ https://github.com/muratcangebes/SocialDwellers/assets/108350526/e0ec9bed-a1b8-4
 ![Home Ekranı](media/social-dwellers-home-page.png)
 ![Home-Modal Ekranı](media/social-dwellers-home-page-modal.png)
 
-## Uygulama İçi Video
-
-[Uygulama Videosu](media/app-video.mp4)
-
 ## Geliştirme Süreci
 
 **Kullanılan Kütüphaneler:**
